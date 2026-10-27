@@ -63,9 +63,10 @@ Make sure you have the following installed:
 
 **1. Clone the repository**
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+
+git clone https://github.com/dattatray552/insight-io-dashboard.git
+
+
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
